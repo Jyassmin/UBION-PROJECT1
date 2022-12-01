@@ -4,15 +4,15 @@
 
 ![Untitled](https://user-images.githubusercontent.com/88031549/205055658-286ea206-1f43-4979-babb-0c4d73f14bac.jpeg)
 
-![Untitled](%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%8C%E1%85%A6%E1%86%A8%E1%84%90%E1%85%B3%20%E1%84%89%E1%85%A9%E1%84%80%E1%85%A2%209661076dd23349399ccef8017742154c/Untitled%201.jpeg)
+![Untitled 1](https://user-images.githubusercontent.com/88031549/205056311-73bfbb0d-aadf-4760-b1d8-5d7fb6d4b4a5.jpeg)
 
-![Untitled](%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%8C%E1%85%A6%E1%86%A8%E1%84%90%E1%85%B3%20%E1%84%89%E1%85%A9%E1%84%80%E1%85%A2%209661076dd23349399ccef8017742154c/Untitled%202.jpeg)
+![Untitled 2](https://user-images.githubusercontent.com/88031549/205056394-b5e4df7d-428e-4274-bae6-4c3c57f5b985.jpeg)
 
-![Untitled](%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%8C%E1%85%A6%E1%86%A8%E1%84%90%E1%85%B3%20%E1%84%89%E1%85%A9%E1%84%80%E1%85%A2%209661076dd23349399ccef8017742154c/Untitled%203.jpeg)
+![Untitled 3](https://user-images.githubusercontent.com/88031549/205056428-0120c124-357f-4308-bdcd-46245d93858b.jpeg)
 
-![Untitled](%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%8C%E1%85%A6%E1%86%A8%E1%84%90%E1%85%B3%20%E1%84%89%E1%85%A9%E1%84%80%E1%85%A2%209661076dd23349399ccef8017742154c/Untitled%204.jpeg)
+![Untitled 4](https://user-images.githubusercontent.com/88031549/205056477-adfddfbd-c29e-42bf-b522-730b7c8c4069.jpeg)
 
-![Untitled](%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%8C%E1%85%A6%E1%86%A8%E1%84%90%E1%85%B3%20%E1%84%89%E1%85%A9%E1%84%80%E1%85%A2%209661076dd23349399ccef8017742154c/Untitled%205.jpeg)
+![Untitled 5](https://user-images.githubusercontent.com/88031549/205056509-3f95be7f-7c1e-4675-9a14-66149a9d2994.jpeg)
 
 # **프로젝트 소개**
 
@@ -48,7 +48,7 @@
         1. PBR
         2. 시가총액
 
-## **1. Preprocessing**
+## 1. Preprocessing
 
 - 결측치&Inf 제거
 - 이상치 제거 : 이상치 존재 시 Scaling, Clustering에 영향을 미치기에 제거가 필요하지만,
@@ -94,12 +94,12 @@
 - 백테스팅 기간 : 21.04.01 ~ 22.03.31
 - 벤치마크 대비 성과(수익률, MDD, SHAPR, SORTINO)
 
-![Untitled](%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%8C%E1%85%A6%E1%86%A8%E1%84%90%E1%85%B3%20%E1%84%89%E1%85%A9%E1%84%80%E1%85%A2%209661076dd23349399ccef8017742154c/Untitled.png)
+![Untitled](https://user-images.githubusercontent.com/88031549/205056688-65bfeddd-4ccb-4a5b-b9b9-becb4593ef15.png)
 
-(*아래 예시)
+(*아래 ppt예시)
 
-![Untitled](%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%8C%E1%85%A6%E1%86%A8%E1%84%90%E1%85%B3%20%E1%84%89%E1%85%A9%E1%84%80%E1%85%A2%209661076dd23349399ccef8017742154c/Untitled%206.jpeg)
+![Untitled 6](https://user-images.githubusercontent.com/88031549/205056568-4346b3a2-d21d-4b55-8652-294c06ce48e1.jpeg)
 
-![Untitled](%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%8C%E1%85%A6%E1%86%A8%E1%84%90%E1%85%B3%20%E1%84%89%E1%85%A9%E1%84%80%E1%85%A2%209661076dd23349399ccef8017742154c/Untitled%207.jpeg)
+![Untitled 7](https://user-images.githubusercontent.com/88031549/205056626-2a7ec4a1-5e6a-48f7-a63d-282c469802c5.jpeg)
 
-![Untitled](%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%8C%E1%85%A6%E1%86%A8%E1%84%90%E1%85%B3%20%E1%84%89%E1%85%A9%E1%84%80%E1%85%A2%209661076dd23349399ccef8017742154c/Untitled%208.jpeg)
+![Untitled 8](https://user-images.githubusercontent.com/88031549/205056661-c7141e95-f81d-487e-a2c0-25b3de9a12d1.jpeg)
